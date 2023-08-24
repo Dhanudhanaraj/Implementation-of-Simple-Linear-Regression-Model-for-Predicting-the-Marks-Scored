@@ -80,7 +80,20 @@ rmse=np.sqrt(mse)
 print('RMSE = ',rmse)
 ```
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+
+![ml21](https://github.com/Dhanudhanaraj/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119218812/e43d37f5-5c35-46a8-80f7-14643f5978d5)
+
+![ml22](https://github.com/Dhanudhanaraj/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119218812/42635a5b-b95e-4575-bd2e-e1c4f06623b5)
+
+![ml23](https://github.com/Dhanudhanaraj/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119218812/60ce699e-4b04-4747-82da-163795080db0)
+
+![ml24](https://github.com/Dhanudhanaraj/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119218812/1f7290a2-ea16-4278-92f0-c9f47839304d)
+
+
+![ml25](https://github.com/Dhanudhanaraj/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119218812/b8c3f32c-8791-403d-868a-4a8124221a34)
+
+
+![ml26](https://github.com/Dhanudhanaraj/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119218812/0562348b-b72c-489c-a1c8-099588e0fc02)
 
 
 ## Result:
